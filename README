@@ -1,1 +1,4 @@
-Monitors and shows a preview of the product that is currently shown on IBOOD when an IBoodhunt is going on
+NOTE: this is an old project and does no longer work with the new Ibood website.
+
+This is a WinForm desktop application which monitors and shows a preview of the product that is currently shown on IBOOD when an IBoodhunt is going on (ibood.be).
+A popup (and sound) will appear every time a new product is shown on the ibood hunt.
